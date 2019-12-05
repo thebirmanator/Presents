@@ -1,0 +1,10 @@
+main: games.indigo.presents.Presents
+name: Presents
+version: 1.0
+author: TheBirmanator
+description: Christmas presents for players to give others
+api-version: 1.14
+commands:
+  givepresent:
+   usage: /<command>
+   description: Main command for the presents
